@@ -21,6 +21,9 @@ td.center {
   font-weight: 900;
 }
 p.right {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 600px;
   text-align: right;
 }
 p.center {
