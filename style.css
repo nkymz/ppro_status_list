@@ -23,3 +23,8 @@ td.center {
 p.right {
   text-align: right;
 }
+p.center {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 600px;
+}
